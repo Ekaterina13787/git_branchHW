@@ -1,0 +1,3 @@
+Removes all files from the installation directory	Yes	P	Removes all files from installation directory
+Does not remove system files or shared components	Yes	P	Does not remove any shared files, DLLs, or shared components
+Removes all application-specific Registry entries 	Yes	P	Removes all Registry entries
